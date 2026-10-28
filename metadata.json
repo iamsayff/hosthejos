@@ -1,0 +1,8 @@
+{
+  "name": "Remix How is the Josh",
+  "description": "How is the JOSH",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
